@@ -1,2 +1,2 @@
-# projeto-gentileza
+# Projeto Gentileza
 Projeto idealizado pela Professora Noriko Izumi, que consiste em incentivar a prática da gentileza junto a crianças do ensino fundamental, além de construir um pensamento de cidadão que contribui com a melhoria de sua comunidade. Este repositório irá abrigar uma plataforma que ampliará o impacto desse projeto, dando possibilidade para que outras instituições de ensino possam entender e aplicar a metodologia em suas respectivas escolas e cidades.
